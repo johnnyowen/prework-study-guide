@@ -3,7 +3,7 @@
 ## Description
 
 I was motivated to build this project to learn more about coding, the languages, and the process of deployment. I built this to have hands on experience before I start a new class. This will give
- you some basic knowledge  about coding topics, and even tell you which topic to study first. I learned  about using the terminal, the basics of Git Hub, and that cading if rewarding when done right.
+ you some basic knowledge  about coding topics, and even tell you which topic to study first. I learned  about using the terminal, the basics of Git Hub, and that coding if rewarding when done right.
 
 ## Installation
 
